@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:hover .lucide-chevron-up{
+    transform: rotate(180deg);
+}
